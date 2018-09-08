@@ -1,4 +1,4 @@
-print('========== DESAFIO 018 ==========')
+print ( '========== DESAFIO 018 ==========' )
 print('ATRAVÉS DA LEITURA DO ÂNGULO CALCULE O SENO, COSSENO E A TANGENTE')
 
 from math import radians, cos, sin, tan
