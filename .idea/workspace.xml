@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4faefab8-9e4d-4c49-ab69-ebbd47abbc66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,25 +35,25 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="py" value="7759" />
+          <entry key="py" value="10686" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="7759" />
+          <entry key="Python" value="10686" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="48" />
+          <entry key="py" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="48" />
+          <entry key="Python" value="67" />
         </counts>
       </usages-collector>
     </session>
@@ -60,10 +61,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex027.py">
+        <entry file="file://$PROJECT_DIR$/ex035.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -114,6 +115,14 @@
         <option value="$PROJECT_DIR$/ex025.py" />
         <option value="$PROJECT_DIR$/ex026.py" />
         <option value="$PROJECT_DIR$/ex027.py" />
+        <option value="$PROJECT_DIR$/ex028.py" />
+        <option value="$PROJECT_DIR$/ex029.py" />
+        <option value="$PROJECT_DIR$/ex030.py" />
+        <option value="$PROJECT_DIR$/ex031.py" />
+        <option value="$PROJECT_DIR$/ex032.py" />
+        <option value="$PROJECT_DIR$/ex033.py" />
+        <option value="$PROJECT_DIR$/ex034.py" />
+        <option value="$PROJECT_DIR$/ex035.py" />
       </list>
     </option>
   </component>
@@ -137,11 +146,19 @@
               <item name="Curso_Em_Video" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso_Em_Video" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Curso_Em_Video" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso_Em_Video" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,8 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex027">
-    <configuration name="ex023" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex035">
+    <configuration name="ex031" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Em_Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex023.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex031.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex024" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex032" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Em_Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,7 +206,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex024.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex032.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex025" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex033" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Em_Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +227,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex025.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex033.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex026" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex034" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Em_Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +248,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex026.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex034.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex027" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex035" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_Em_Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,7 +269,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex027.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex035.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,19 +279,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex023" />
-      <item itemvalue="Python.ex024" />
-      <item itemvalue="Python.ex025" />
-      <item itemvalue="Python.ex026" />
-      <item itemvalue="Python.ex027" />
+      <item itemvalue="Python.ex031" />
+      <item itemvalue="Python.ex032" />
+      <item itemvalue="Python.ex033" />
+      <item itemvalue="Python.ex034" />
+      <item itemvalue="Python.ex035" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex027" />
-        <item itemvalue="Python.ex026" />
-        <item itemvalue="Python.ex025" />
-        <item itemvalue="Python.ex024" />
-        <item itemvalue="Python.ex023" />
+        <item itemvalue="Python.ex035" />
+        <item itemvalue="Python.ex034" />
+        <item itemvalue="Python.ex033" />
+        <item itemvalue="Python.ex032" />
+        <item itemvalue="Python.ex031" />
       </list>
     </recent_temporary>
   </component>
@@ -295,12 +312,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20224719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2027833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3079179" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32110092" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -460,17 +477,86 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex021.py" />
-    <entry file="file://$PROJECT_DIR$/ex020.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1717980130/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1052">
+          <caret line="4958" column="11" lean-forward="true" selection-start-line="4958" selection-start-column="11" selection-end-line="4958" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex012.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1717980130/builtins.py">
+    <entry file="file://$PROJECT_DIR$/ex028.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1052">
-          <caret line="4958" column="11" lean-forward="true" selection-start-line="4958" selection-start-column="11" selection-end-line="4958" selection-end-column="11" />
+        <state>
+          <caret selection-end-column="42" />
+          <folding>
+            <element signature="e#129#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex029.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="96" selection-start-line="5" selection-start-column="96" selection-end-line="5" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex030.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex031.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex032.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#96#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex027.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex026.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex025.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex024.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -488,38 +574,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex024.py">
+    <entry file="file://$PROJECT_DIR$/ex020.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="42" />
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex025.py">
+    <entry file="file://$PROJECT_DIR$/ex033.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="42" />
+          <caret selection-end-line="1" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex012.py">
+    <entry file="file://$PROJECT_DIR$/ex034.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="42" />
+          <caret selection-end-line="1" selection-end-column="111" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex026.py">
+    <entry file="file://$PROJECT_DIR$/ex035.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex027.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
